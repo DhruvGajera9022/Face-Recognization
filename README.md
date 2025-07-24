@@ -35,8 +35,8 @@ You also need the following DNN model files (optional but recommended for better
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/enhanced-face-detection.git
-cd enhanced-face-detection
+git clone https://github.com/DhruvGajera9022/Face-Recognization.git
+cd Face-Recognization
 
 # Create a virtual environment (optional)
 python -m venv venv
